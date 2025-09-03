@@ -1,5 +1,6 @@
 # Panco-Food-Brand-Promotional-Flyer
 This project is about promotional flyer designed in Figma for a fictional food brand named Panco. The purpose of this project is to showcase creative design skills in building brand-focused marketing content. 
+
 🔹 Frame 1 – Brand & Discount
 
 The opening frame highlights a 30% discount badge in a bold style to immediately catch the viewer’s eye. The central placement of the Panco panda logo strengthens brand identity, while the service timings are displayed below in a clean, professional manner. This frame balances promotional appeal with essential business information.
